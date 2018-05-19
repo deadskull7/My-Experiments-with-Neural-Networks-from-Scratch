@@ -4,3 +4,4 @@
 
 #### My work also includes varying the hyperparameters such as epochs , learning rates and neurons in dense layer or hidden layer and studied their effects on cost function and speed of convergence . Changes in error with learning rates and epochs for different number of neurons in hidden layers was also studied.
   
+   
